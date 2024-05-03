@@ -1,23 +1,21 @@
-# Bienvenue sur mon profil GitHub !
+# Hi i am Alan !
 
-## À propos de moi
-Je suis passionné par le développement logiciel et j'aime explorer de nouvelles technologies pour créer des solutions innovantes.
+## About Me
+I'm passionate about software development and enjoy exploring new technologies to create innovative solutions.
 
-## Langages de programmation préférés
-- Python
-- JavaScript
-- Java
-- HTML/CSS
+## Favorite Programming Languages
+- FLutter
+- C#
 
-## Projets populaires
-Voici quelques-uns de mes projets les plus populaires :
+## Popular Projects
+Here are some of my most popular projects:
 
-1. [Nom du projet 1](lien_vers_le_projet_1) - Description brève du projet.
-2. [Nom du projet 2](lien_vers_le_projet_2) - Description brève du projet.
-3. [Nom du projet 3](lien_vers_le_projet_3) - Description brève du projet.
+1. test
+2. test
+3. test
 
 ## Contributions
-Je suis également actif sur d'autres projets open source. N'hésitez pas à consulter mes contributions sur mon profil !
+I'm also active in contributing to other open-source projects. Feel free to check out my contributions on my profile!
 
 ## Contact
-Si vous souhaitez me contacter, n'hésitez pas à m'envoyer un e-mail à [votre@email.com](mailto:votre@email.com) ou à me trouver sur [LinkedIn](lien_vers_votre_profil_linkedin).
+If you'd like to get in touch
